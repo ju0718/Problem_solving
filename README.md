@@ -13,6 +13,6 @@
 
 <h3>:cat:Current Progress</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju0718&show_icons=true&theme=ambient_gradient) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ju0718&show_icons=true&theme=ambient_gradient) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeju0718)](https://solved.ac/chaeju0718/)
 
 
